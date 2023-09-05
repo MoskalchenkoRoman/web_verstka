@@ -1,0 +1,123 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header {
+    margin-top: 14px;
+    padding-left: 375px;
+    padding-top: 26px;
+    padding-bottom: 48px;
+    display: flex;
+    /* justify-content: center; */
+}
+
+.logo_text {
+    margin-left: 14px;
+    color: black;
+    font-family: Gilroy-Bold;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.logo_text1 {
+    color: #F25822;
+    font-family: Gilroy-Bold;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.menu {
+    margin-left: 500px;
+    font-family: Gilroy-Medium;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.menu-home {
+    color: #F25822;
+    margin-right: 35px;
+}
+
+.menu-item {
+    color: #000;
+    margin-right: 35px;
+
+}
+
+.top_content {
+    margin-top: 21px;
+    padding-top: 15px;
+    padding-left: 373px;
+    padding-bottom: 27px;
+    padding-right: 439px;
+    display: flex;
+    justify-content: center;
+}
+
+.text_content {
+    padding-top: 59px;
+    padding-bottom: 38px;
+    margin-right: 40px;
+}
+
+.text_h1 {
+    color: #000;
+    font-family: Gilroy-Bold;
+    font-size: 60px;
+    font-weight: 400;
+}
+
+.text_p1 {
+    margin-top: 17px;
+    color: #888;
+    font-family: Gilroy-Medium;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.blog_button {
+    padding-top: 21px;
+    padding-bottom: 23px;
+    padding-right: 49px;
+}
+
+.button_items {
+    width: 140px;
+    height: 50px;
+    border-radius: 50px;
+    background: #F25822;
+    border: transparent;
+    color: #FFF;
+}
+
+.span_text {
+    margin-left: 72px;
+    color: #AAA;
+    font-family: Gilroy-Bold;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.picture {
+    width: 544.814px;
+    height: 374.843px;
+}
+
+.top_logo {
+    display: flex;
+    justify-content: center;
+    margin-top: 53px;
+    padding-top: 59px;
+    padding-bottom: 49px;
+    padding-left: 345px;
+    padding-right: 375px;
+}
+
+.logo {
+    margin-right: 48px;
+}
