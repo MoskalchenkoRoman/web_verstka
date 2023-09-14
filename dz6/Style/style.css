@@ -1,0 +1,266 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header {
+    height: 75px;
+    background-color: #222;
+}
+
+.header_menu {
+    display: flex;
+    justify-content: space-between;
+}
+
+.block_logo_1 {
+    padding-top: 18px;
+    padding-bottom: 19px;
+    padding-left: 231px;
+
+}
+
+.block_logo_2 {
+    padding-top: 26px;
+    padding-bottom: 20px;
+    padding-right: 240px;
+    padding-left: 859px;
+}
+
+.picture_head_1 {
+    margin-right: 41px;
+}
+
+.picture_menu_1 {
+    margin-right: 33px;
+}
+
+.picture_menu_2 {
+    margin-right: 33px;
+}
+
+.top_content {
+    display: flex;
+    background-color: #F1E4E6;
+}
+
+.top_content_text {
+
+    padding-top: 290px;
+    padding-bottom: 381px;
+    padding-left: 63px;
+    padding-right: 331px;
+    display: flex;
+}
+
+.top_content_text_1 {
+    color: #222;
+    font-family: Lato;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+
+.top_content_text_2 {
+    color: #222;
+    font-family: Lato;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.top_content_text_3 {
+    color: #F16D7F;
+    font-family: Lato;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.tct_1 {
+    margin-right: 16px;
+}
+
+
+
+.offer {
+    padding-top: 65px;
+    padding-bottom: 96px;
+    padding-left: 230px;
+    padding-right: 230px;
+}
+
+.offer_block_up {
+    display: flex;
+    /* position: relative; */
+}
+
+.offer_block_1 {
+    position: relative;
+}
+
+.elem1 {
+    margin-right: 30px;
+}
+
+.elem2 {
+    margin-right: 30px;
+}
+
+
+.offer_block_2 {
+    position: relative;
+}
+
+
+.offer_block_3 {
+    position: relative;
+}
+
+
+.offer_block_down {
+    padding-top: 30px;
+}
+
+.offer_block_4 {
+    position: relative;
+}
+
+
+.block_text {
+    text-align: center;
+
+}
+
+.block_text_p1 {
+    color: #FFF;
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.block_text_p2 {
+    color: #F16D7F;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.hp_1 {
+    display: flex;
+    justify-content: center;
+    color: #222;
+    font-family: Lato;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.hp_2 {
+    padding-top: 6px;
+    display: flex;
+    justify-content: center;
+    color: #9F9F9F;
+    font-family: Lato;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.products {
+    padding-top: 96px;
+    padding-bottom: 60px;
+    padding-left: 230px;
+    padding-right: 230px;
+
+}
+
+.block {
+    background-color: #F8F8F8;
+}
+
+.line1 {
+    padding-top: 48px;
+    display: flex;
+}
+
+.line2 {
+    padding-top: 25px;
+    display: flex;
+}
+
+.text_block_1 {
+    padding-top: 24px;
+    padding-left: 16px;
+    color: #000;
+    font-family: Lato;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.text_block_2 {
+    padding-top: 16px;
+    padding-left: 16px;
+    color: #5D5D5D;
+    font-family: Lato;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
+.text_block_3 {
+    padding-top: 16px;
+    padding-left: 16px;
+    color: #F16D7F;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.button {
+    width: 212px;
+    height: 48px;
+    border-color: #FF6A6A;
+    margin-top: 48px;
+    margin-bottom: 60px;
+    margin-left: 469px;
+}
+
+.text_button {
+    color: #F26376;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.block {
+    width: 360px;
+    height: 581px;
+    flex-shrink: 0;
+    background-color: #F8F8F8;
+    margin-right: 30px;
+}
